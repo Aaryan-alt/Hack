@@ -1,4 +1,4 @@
-** AETHER ARENA **
+** AETHER BATTLEFIELD **
 
 **A Decentralized Esports Platform Demo **
 
